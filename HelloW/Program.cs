@@ -10,7 +10,7 @@ namespace HelloW
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello world Master");
+            Console.Write("Hello world Feature");
         }
     }
 }
