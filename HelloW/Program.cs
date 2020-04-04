@@ -12,5 +12,10 @@ namespace HelloW
         {
             Console.Write("Hello world Feature");
         }
+
+        public void CommitFn1()
+        {
+
+        }
     }
 }
